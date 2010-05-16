@@ -1,0 +1,57 @@
+
+
+NIST DOM HTML Test - INPUT
+
+
+
+
+Under a FORM control
+
+
+
+
+Enter Your Password:
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Hours available to work
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
